@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Decisione: Accessibilità e Inaccessibilità Strutturale nel Collasso Rappresentativo"
+authors:
+  - family-names: "Di Paolo"
+    given-names: "Pierernesto"
+    orcid: "https://orcid.org/0009-0003-0149-4321"
+version: "1.0"
+date-released: "2026-05-07"
+doi: "10.5281/zenodo.20066906"
+url: "https://doi.org/10.5281/zenodo.20066906"
+repository-code: "https://github.com/Pierernesto/decision-accessibility-rci"
+license: "CC-BY-4.0"
+type: "article"
+abstract: "Formal-operational framework for decision accessibility, structural inaccessibility, representational collapse, and the Representational Collapse Index."
+keywords:
+  - decision theory
+  - representational collapse
+  - structural inaccessibility
+  - bounded rationality
+  - information loss
+  - audit
+  - artificial intelligence
+  - legal decision-making
+  - clinical decision-making
+  - Representational Collapse Index
